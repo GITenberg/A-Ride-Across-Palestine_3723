@@ -1,0 +1,29 @@
+_repo: A-Ride-Across-Palestine_3723
+creator:
+  author:
+    agent_name: Trollope, Anthony
+    birthdate: 1815
+    deathdate: 1882
+    gutenberg_agent_id: '324'
+    url: http://www.gutenberg.org/2009/agents/324
+    wikipedia: http://en.wikipedia.org/wiki/Anthony_Trollope
+description: One of the most popular and prolific writers of fiction and non-fiction
+  in Victorian England, beloved author Anthony Trollope completed nearly 50 book-length
+  works during his lifetime. This gripping action-adventure tale is a fictionalized
+  account of a journey through then-exotic Palestine.
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'British -- Palestine -- Fiction'
+- !lcsh 'Disguise -- Fiction'
+- !lcsh 'Travel -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories'
+title: A Ride Across Palestine
+url: http://www.gutenberg.org/ebooks/3723
